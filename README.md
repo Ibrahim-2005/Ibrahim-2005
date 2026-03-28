@@ -57,20 +57,13 @@ Here are some ideas to get you started:
 * Dashboard showing income, expenses, and balance
 * Built using Flask, SQLite, and deployed on Render
 
-
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-2005&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-2005&show_icons=true&theme=dark&hide_border=true)
 
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ibrahim-2005&theme=dark&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahim-2005&theme=dark&hide_border=true)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-2005&theme=dark&hide_border=true&layout=compact"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-2005&layout=compact&theme=dark&hide_border=true)>
 
 ---
 
@@ -90,6 +83,6 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ibrahim-2005&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=Ibrahim-2005&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -26,10 +26,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=flat&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
